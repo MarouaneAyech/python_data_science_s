@@ -34,3 +34,4 @@ Il est réparti en 7 séances :
     - Introduction à la manipulation des données avec `Pandas`
     - Manipulation des `séries`
     - Manipulation des `dataframes`
+    - TD4 +correction
