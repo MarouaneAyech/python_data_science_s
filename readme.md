@@ -32,3 +32,5 @@ Il est réparti en 7 séances :
     - TD3 +correction
 - Seance 7 : 
     - Introduction à la manipulation des données avec `Pandas`
+    - Manipulation des `séries`
+    - Manipulation des `dataframes`
